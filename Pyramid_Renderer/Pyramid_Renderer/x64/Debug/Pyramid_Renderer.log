@@ -1,0 +1,8 @@
+﻿  pyramid.cpp
+C:\Users\moses\source\repos\Pyramid_Renderer\pyramid.cpp(55,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer\pyramid.cpp(56,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer\pyramid.cpp(60,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer\pyramid.cpp(61,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer\pyramid.cpp(65,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer\pyramid.cpp(66,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Pyramid_Renderer.vcxproj -> C:\Users\moses\source\repos\Pyramid_Renderer\x64\Debug\Pyramid_Renderer.exe
