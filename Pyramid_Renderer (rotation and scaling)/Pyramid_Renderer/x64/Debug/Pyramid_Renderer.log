@@ -1,0 +1,27 @@
+﻿  pyramid.cpp
+  pyramidNoOOP.cpp
+  Renderer3D.cpp
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(87,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(89,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(103,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(103,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(120,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(120,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(120,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(120,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(126,31): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(126,31): warning C4244:         with
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(126,31): warning C4244:         [
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(126,31): warning C4244:             _Rep=double
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\pyramidNoOOP.cpp(126,31): warning C4244:         ]
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(29,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(29,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(29,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(29,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(36,28): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(36,28): warning C4244:         with
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(36,28): warning C4244:         [
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(36,28): warning C4244:             _Rep=double
+C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\Renderer3D.cpp(36,28): warning C4244:         ]
+  Generating Code...
+  Pyramid_Renderer.vcxproj -> C:\Users\moses\source\repos\Pyramid_Renderer (rotation and scaling)\x64\Debug\Pyramid_Renderer.exe
